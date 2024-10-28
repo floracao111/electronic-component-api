@@ -1,0 +1,54 @@
+{
+    "components": [
+      {
+        "name": "DC Motor (Rotary)",
+        "voltage": "6V - 12V",
+        "description": "A motor that converts electrical energy into mechanical motion, often used in robotics and automation.",
+        "range": "0 to 360 degrees (continuous rotation)",
+        "application": "Robotics, conveyor belts, fans"
+      },
+      {
+        "name": "Servo Motor (Position Control)",
+        "voltage": "4.8V - 6V",
+        "description": "A motor that provides precise control of angular position, ideal for applications requiring specific positioning.",
+        "range": "0 to 180 degrees",
+        "application": "Robotics"
+      },
+      {
+        "name": "Water Pump (Submersible)",
+        "voltage": "5V - 12V",
+        "description": "A device designed to move water, commonly used in irrigation systems and aquariums.",
+        "range": "Pumps water at a rate of 120-300 liters per hour",
+        "application": "Water features"
+      },
+      {
+        "name": "Photoresistor (Light Sensor)",
+        "voltage": "5V",
+        "description": "A light-sensitive resistor that changes resistance based on light intensity, useful for light detection.",
+        "range": "Detects light levels from 0 to 1000 lux",
+        "application": "Ambient light sensing, automatic lighting systems"
+      },
+      {
+        "name": "Ultrasonic Sensor (Distance Measuring)",
+        "voltage": "5V",
+        "description": "A sensor that measures distance by emitting ultrasonic waves and measuring their reflection time.",
+        "range": "0.8 inches to 13.1 feet",
+        "application": "Obstacle avoidance in robotics, distance measurement"
+      },
+      {
+        "name": "Stepper Motor (Precision Control)",
+        "voltage": "5V - 12V",
+        "description": "A motor that moves in discrete steps, allowing for precise control of position and speed, commonly used in CNC machines.",
+        "range": "1.8 degrees per step (200 steps per revolution)",
+        "application": "robotics"
+      },
+      {
+        "name": "RGB LED (Color Changing LED)",
+        "voltage": "5V",
+        "description": "A multi-colored LED that can emit different colors by adjusting the intensity of its red, green, and blue components.",
+        "range": "RGB colors",
+        "application": "Decorative lighting, indicators, displays"
+      }
+    ]
+  }
+  
