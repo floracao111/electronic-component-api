@@ -1,8 +1,13 @@
 // index.js
 import express from 'express';
+import cors from 'cors';
 import fs from 'fs/promises'; // Import JSON file
 const app = express();
+app.use(cors({
+    origin: '*'
+}));
 const port = process.env.PORT || 5002;
+
 
 let jsonData;
 
